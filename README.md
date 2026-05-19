@@ -1,4 +1,5 @@
 ⚠️ Disclosure: This write‑up was created with AI assistance, but I did all the actual lab work.
+
 # HackSmarter – EmberForge Source Leak Investigation
 
 ##  Overview
@@ -119,7 +120,7 @@ P@ssw0rd123!
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 - Log analysis
 - Threat hunting
 - Process lineage investigation
@@ -130,9 +131,9 @@ P@ssw0rd123!
 
 ---
 
-## 🏁 Outcome
+##  Outcome
 Successfully reconstructed attacker activity from execution through exfiltration and persistence, identifying full attack chain and indicators of compromise.
 
 ---
 
-🔐 Lab completed via HackSmarter.org
+ Lab completed via HackSmarter.org
