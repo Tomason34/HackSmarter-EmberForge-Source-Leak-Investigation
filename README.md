@@ -1,6 +1,7 @@
+⚠️ Disclosure: This write‑up was created with AI assistance, but I did all the actual lab work.
 # HackSmarter – EmberForge Source Leak Investigation
 
-## 📌 Overview
+##  Overview
 This investigation analyzes a simulated enterprise breach involving source code theft from EmberForge.  
 Using Splunk log analysis, the attacker’s activity was reconstructed from initial execution to data exfiltration and persistence.
 
