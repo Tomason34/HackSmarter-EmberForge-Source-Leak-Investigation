@@ -1,4 +1,4 @@
-⚠️ Disclosure: This write‑up was created with AI assistance, but I did all the actual lab work.
+⚠️ Disclosure: This write‑up was created with AI assistance, not me,  but I did all the actual lab work.
 
 # HackSmarter – EmberForge Source Leak Investigation
 
