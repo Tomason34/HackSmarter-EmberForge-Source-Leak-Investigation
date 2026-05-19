@@ -7,7 +7,7 @@ Using Splunk log analysis, the attacker’s activity was reconstructed from init
 
 ---
 
-## 🧠 Investigation Phases
+##  Investigation Phases
 
 ### Phase 1 – Initial Execution
 - Suspicious execution:
