@@ -104,7 +104,7 @@ P@ssw0rd123!
 
 ---
 
-## 📊 Blast Radius
+##  Blast Radius
 - Total compromised hosts:
 
 3
@@ -112,7 +112,7 @@ P@ssw0rd123!
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Splunk (SPL queries)
 - Windows Event Logs
 - Sysmon Process Creation logs
